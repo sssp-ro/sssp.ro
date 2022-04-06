@@ -1,7 +1,7 @@
 title:              SSSP
 email:              sssp@fspac.ro
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+description:        Societatea Studențească de Știinte Politice
+author:             SSSP
 baseurl:            "/"
 url:                "https://sssp.ro"
 
@@ -9,7 +9,7 @@ url:                "https://sssp.ro"
 twitter_username:   
 github_username:    
 facebook_username:  ssspubb
-instagram_username:  
+instagram_username: ssspfspac 
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
