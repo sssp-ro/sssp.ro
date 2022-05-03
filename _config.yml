@@ -2,7 +2,7 @@ title:              SSSP
 email:              sssp@fspac.ro
 description:
 author:             SSSP
-baseurl:            "/despre-noi"
+baseurl:            "/"
 url:                "https://sssp.ro"
 
 # Social Profiles
