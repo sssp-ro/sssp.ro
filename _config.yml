@@ -1,15 +1,15 @@
 title:              SSSP
 email:              sssp@fspac.ro
-description:        
+description:
 author:             SSSP
-baseurl:            "/"
+baseurl:            "/despre-noi"
 url:                "https://sssp.ro"
 
 # Social Profiles
-twitter_username:   
-github_username:    
+twitter_username:
+github_username:
 facebook_username:  ssspubb
-instagram_username: ssspfspac 
+instagram_username: ssspfspac
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
